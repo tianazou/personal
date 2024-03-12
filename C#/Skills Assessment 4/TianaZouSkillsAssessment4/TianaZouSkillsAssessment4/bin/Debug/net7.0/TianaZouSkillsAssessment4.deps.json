@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TianaZouSkillsAssessment4/1.0.0": {
+        "runtime": {
+          "TianaZouSkillsAssessment4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TianaZouSkillsAssessment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

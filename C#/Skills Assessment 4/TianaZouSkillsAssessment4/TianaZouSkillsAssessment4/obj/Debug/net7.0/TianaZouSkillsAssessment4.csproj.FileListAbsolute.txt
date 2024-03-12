@@ -1,0 +1,15 @@
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/bin/Debug/net7.0/TianaZouSkillsAssessment4
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/bin/Debug/net7.0/TianaZouSkillsAssessment4.deps.json
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/bin/Debug/net7.0/TianaZouSkillsAssessment4.runtimeconfig.json
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/bin/Debug/net7.0/TianaZouSkillsAssessment4.dll
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/bin/Debug/net7.0/TianaZouSkillsAssessment4.pdb
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.csproj.AssemblyReference.cache
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.AssemblyInfoInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.AssemblyInfo.cs
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.csproj.CoreCompileInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.dll
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/refint/TianaZouSkillsAssessment4.dll
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.pdb
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/TianaZouSkillsAssessment4.genruntimeconfig.cache
+/Users/tianazou/Documents/TAFE2024/C#/Skills Assessment 4/TianaZouSkillsAssessment4/TianaZouSkillsAssessment4/obj/Debug/net7.0/ref/TianaZouSkillsAssessment4.dll

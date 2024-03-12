@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D82A4CF7-8B70-4E11-862C-C999D6AC6BD8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TianaZouSkillsAssessment4/Program.cs">
+    <Files>
+      <File FileName="TianaZouSkillsAssessment4/Program.cs" Line="40" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TianaZouSkillsAssessment4" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TianaZouSkillsAssessment4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
