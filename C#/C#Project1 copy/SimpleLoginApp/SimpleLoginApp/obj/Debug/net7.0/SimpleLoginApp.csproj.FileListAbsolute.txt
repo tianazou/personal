@@ -1,0 +1,30 @@
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.csproj.AssemblyReference.cache
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.AssemblyInfoInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.AssemblyInfo.cs
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.csproj.CoreCompileInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.deps.json
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.runtimeconfig.json
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.pdb
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/refint/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.pdb
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.genruntimeconfig.cache
+/Users/tianazou/Documents/TAFE2024/C#/C# Project 1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/ref/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.deps.json
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.runtimeconfig.json
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/bin/Debug/net7.0/SimpleLoginApp.pdb
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.csproj.AssemblyReference.cache
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.AssemblyInfoInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.AssemblyInfo.cs
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.csproj.CoreCompileInputs.cache
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/refint/SimpleLoginApp.dll
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.pdb
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/SimpleLoginApp.genruntimeconfig.cache
+/Users/tianazou/Documents/TAFE2024/C#/C#Project1/SimpleLoginApp/SimpleLoginApp/obj/Debug/net7.0/ref/SimpleLoginApp.dll
