@@ -1,3 +1,4 @@
+/*
 class Person {
     name: string;
     age: number;
@@ -9,3 +10,11 @@ class Person {
     }
 
 }
+
+let p = new Person("Jeff", 29); 
+*/
+
+for(let i: number = 0; i < 10; i++) {
+    console.log(i);
+}
+
